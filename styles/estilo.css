@@ -40,7 +40,7 @@ header{
     height: 800px;
     margin-right: 0%;
     margin-left: 7%;
-    background-image: url(/img/img-home2.png), url(/img/fondo-cuadrado.jpg);
+    background-image: url(/img/img-home2), url(/img/fondo-cuadrado);
     background-repeat: no-repeat;
     background-size:
     850px 800px,
